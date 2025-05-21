@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/f4oEdvT.png"  height="10%" width="40%" alt="peppermint logo"/>
 </p>
 
-<h1>Host Your Own Helpdesk at Home Using Spare Hardware and Peppermint.sh</h1>
+<h1>Host Your Own Helpdesk at Home Using Spare Hardware</h1>
 This guide will show you how to turn an old laptop or spare PC into a fully functional, self-hosted helpdesk system using Peppermint OS and Docker. You can set it up at home for your family and friends, so if they ever run into problems — with tech, chores, or anything else — they can easily submit a ticket. Whether it's for personal use, a small business, or just for fun, this lightweight and open-source solution puts you in control.<br />
 
 <section>
